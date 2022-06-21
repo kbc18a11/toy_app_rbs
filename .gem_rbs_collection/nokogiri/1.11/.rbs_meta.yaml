@@ -1,9 +1,0 @@
----
-name: nokogiri
-version: '1.11'
-source:
-  type: git
-  name: ruby/gem_rbs_collection
-  revision: f096cbfe0590fe6b6980c77256bde630b77dbb7f
-  remote: https://github.com/ruby/gem_rbs_collection.git
-  repo_dir: gems
